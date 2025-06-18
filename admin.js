@@ -1,1 +1,0 @@
-console.log('Admin panel script loaded');
